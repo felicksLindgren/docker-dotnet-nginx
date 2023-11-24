@@ -4,7 +4,7 @@ This is a simple API that returns a JSON response with the weather forecast. It 
 
 ## Build and run
 
-``` 
+```bash
 docker compose build
 ```
 
